@@ -9,4 +9,6 @@
     <color name="blue">#26315F</color>
     <color name="green">#0CB806</color>
     <color name="purple">#423050</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
 </resources>
